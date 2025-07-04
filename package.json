@@ -1,0 +1,27 @@
+{
+  "name": "moj-projekt",
+  "version": "1.0.0",
+  "description": "## Opis projektu To jest mój pierwszy projekt korzystający z Git i GitHub.   Zawiera przykładową stronę internetową i dokumentację.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bejker33/moj-projekt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bejker33/moj-projekt/issues"
+  },
+  "homepage": "https://github.com/Bejker33/moj-projekt#readme",
+  "devDependencies": {
+    "jest": "^30.0.4",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
