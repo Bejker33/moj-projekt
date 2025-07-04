@@ -4,6 +4,7 @@
   "description": "## Opis projektu To jest mój pierwszy projekt korzystający z Git i GitHub.   Zawiera przykładową stronę internetową i dokumentację.",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "jest",
     "build": "echo \"Build completed\""
   },
